@@ -1,0 +1,5 @@
+{
+  "name": "BPMN Diagram Generator",
+  "description": "An application that takes a natural language description of a business process and generates a visual BPMN 2.0 diagram using AI.",
+  "requestFramePermissions": []
+}
